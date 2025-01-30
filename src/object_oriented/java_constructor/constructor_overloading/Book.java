@@ -1,4 +1,4 @@
-package objectoriented.javaconstructor.constructoroverloading;
+package object_oriented.java_constructor.constructor_overloading;
 
 public class Book {
 

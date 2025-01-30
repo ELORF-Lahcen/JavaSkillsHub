@@ -1,4 +1,4 @@
-package javacontroflow.conditionalstatement;
+package java_controflow.conditional_statement;
 
 import java.util.Scanner;
 

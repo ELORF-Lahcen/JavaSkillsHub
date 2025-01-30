@@ -1,4 +1,4 @@
-package objectoriented.javaconstructor.chainingconstructors;
+package object_oriented.java_constructor.chaining_constructors;
 
 public class Student {
 

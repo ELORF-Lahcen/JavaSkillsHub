@@ -1,4 +1,4 @@
-package objectoriented.javaconstructor.defaultconstructor;
+package object_oriented.java_constructor.default_constructor;
 
 public class Cat {
 

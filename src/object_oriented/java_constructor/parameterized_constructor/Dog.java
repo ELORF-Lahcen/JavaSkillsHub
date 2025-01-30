@@ -1,4 +1,4 @@
-package objectoriented.javaconstructor.parameterizedconstructor;
+package object_oriented.java_constructor.parameterized_constructor;
 
 public class Dog {
 
