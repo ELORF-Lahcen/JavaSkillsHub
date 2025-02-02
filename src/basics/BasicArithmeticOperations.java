@@ -1,8 +1,6 @@
 package basics;
 
-import java.util.Scanner;
-
-public class ArithmeticOperations {
+public class BasicArithmeticOperations {
     public static void main(String[] args) {
         System.out.println("-5 + 8 * 6 = " + (-5 + 8 * 6));
         System.out.println("(55 + 9) % 9 = " + ((55 + 9) % 9));

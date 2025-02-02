@@ -1,2 +1,4 @@
-package basics;public class MultiplicationTable {
+package basics;
+
+public class MultiplicationTable {
 }
