@@ -3,7 +3,7 @@ package basics.methods;
 import java.util.Scanner;
 
 public class CountVowels {
-    /*public static int countVowels(String str) {
+    /* public static int countVowels(String str) {
         int count = 0;
         str = str.toLowerCase();
         String vowels = "aeiou";
