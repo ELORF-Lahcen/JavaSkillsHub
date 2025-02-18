@@ -1,4 +1,4 @@
-package basics;
+package basics.part_1;
 
 public class PatternDisplayJAVA {
     public static void main(String[] args) {

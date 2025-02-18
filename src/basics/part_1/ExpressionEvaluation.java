@@ -1,4 +1,4 @@
-package basics;
+package basics.part_1;
 
 public class ExpressionEvaluation {
     public static void main(String[] args) {
